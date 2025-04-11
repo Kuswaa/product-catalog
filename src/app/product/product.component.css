@@ -1,0 +1,215 @@
+@media screen and (max-width: 767px)
+{
+    
+.outermost
+{
+    width: 100%;
+    height: fit-content;
+}
+
+.upper
+{
+    display: flex;
+    flex-direction: column;
+    padding: 7px;
+    box-sizing: border-box;
+}
+
+.upper img
+{
+    width: 96vw;
+}
+
+.data
+{
+    padding: 10px;
+    font-size: 22px;
+    text-wrap: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.data span:first-child
+{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.lower
+{
+    display: flex;
+    flex-direction: column;
+    padding: 17px;
+    box-sizing: border-box;
+    padding-top: 0;
+}
+
+.lower span
+{
+    font-size: 24px;
+}
+
+.lower div
+{
+    font-size: 20px;
+}
+
+}
+
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+
+@media screen and (min-width: 768px) and (max-width: 991px)
+{
+    
+.outermost
+{
+    width: 100%;
+    height: fit-content;
+}
+
+.upper
+{
+    display: flex;
+    flex-direction: column;
+    padding: 17px;
+    box-sizing: border-box;
+}
+
+.upper img
+{
+    width: 97vw;
+}
+
+.data
+{
+    padding: 10px;
+    font-size: 27px;
+    text-wrap: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.data span:first-child
+{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.lower
+{
+    display: flex;
+    flex-direction: column;
+    padding: 17px;
+    box-sizing: border-box;
+    padding-top: 0;
+}
+
+.lower span
+{
+    font-size: 30px;
+}
+
+.lower div
+{
+    font-size: 22px;
+}
+
+}
+
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+
+@media screen and (min-width: 992px)
+{
+    
+.outermost
+{
+    width: 100%;
+    height: fit-content;
+}
+
+.upper
+{
+    display: flex;
+    flex-direction: row;
+    padding: 17px;
+    box-sizing: border-box;
+}
+
+.upper img
+{
+    width: 650px;
+}
+
+.data
+{
+    padding: 10px;
+    font-size: 27px;
+    text-wrap: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.data span:first-child
+{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.lower
+{
+    display: flex;
+    flex-direction: column;
+    padding: 17px;
+    box-sizing: border-box;
+    padding-top: 0;
+}
+
+.lower span
+{
+    font-size: 30px;
+}
+
+.lower div
+{
+    font-size: 22px;
+}
+
+}

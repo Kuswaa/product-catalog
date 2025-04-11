@@ -1,0 +1,50 @@
+<div class="outermost">
+
+    <div class="logo">
+        <img class="logo-image" routerLink="home" src="assets/prime2.png" alt="logo">
+    </div>
+
+    <div class="drpdn">
+        <i class="fa fa-bars" (click)="visibility()" aria-hidden="true"></i>
+        
+        <div class="drpside"  [class.menu-open] = "isVisible===true">
+            <div class="bar">Main Menu <i class="fa-solid fa-xmark" (click)="visibility()"></i></div>
+            <div class="item"><a routerLink="account"><span>::</span>  My Account</a></div>
+            <div class="item"><a routerLink="categories"><span>::</span>  Categories</a></div>
+            <div class="item"><a routerLink="cart"><span>::</span>  My Cart</a></div>
+            <div class="item"><a routerLink="about"><span>::</span>  About</a></div>
+        </div>
+    </div>
+
+    <div class="navbar">
+
+        <div class="navig">
+            <a routerLink="account"  class="navlink">
+                <i class="fa-solid fa-user"></i>
+                <span class="span-text-nav">My Account</span>
+            </a>
+        </div>
+
+        <div class="navig">
+            <a routerLink="categories" class="navlink">
+                <i class="fa-solid fa-list"></i>
+                <span class="span-text-nav">Categories</span>
+            </a>
+        </div>
+
+        <div class="navig">
+            <a routerLink="cart" class="navlink">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <span class="span-text-nav">My Cart</span>
+            </a>
+        </div>
+
+        <div class="navig">
+            <a routerLink="about" class="navlink">
+                <i class="fas fa-file"></i>
+                <span class="span-text-nav">About</span>
+            </a>
+        </div>
+    </div>
+
+</div>

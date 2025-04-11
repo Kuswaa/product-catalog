@@ -1,0 +1,176 @@
+@media screen and (max-width: 767px)
+{
+    
+.container
+{
+    width: fit-content;
+    height: fit-content;
+}
+
+.contentbox
+{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 30px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    align-items: center;
+
+}
+
+.profilephoto
+{
+    font-size: 100px;
+    color: black;
+}
+
+
+.userdata
+{
+    margin: 30px;
+    margin-bottom: 0;
+}
+
+.innerdata
+{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+}
+
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+
+@media screen and (min-width: 768px) and (max-width: 991px)
+{
+    
+.container
+{
+    width: fit-content;
+    height: fit-content;
+}
+
+.contentbox
+{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 30px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.profilephoto
+{
+    font-size: 100px;
+    color: black;
+}
+
+
+.userdata
+{
+    margin: 30px;
+    margin-bottom: 0;
+}
+
+.innerdata
+{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+}
+
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+
+@media screen and (min-width: 992px)
+{
+    
+.container
+{
+    width: fit-content;
+}
+
+.contentbox
+{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 30px;
+    width: fit-content;
+    margin: auto;
+
+margin-top: 50px;    align-items: center;
+}
+
+.profilephoto
+{
+    font-size: 100px;
+    color: black;
+}
+
+
+.userdata
+{
+    margin: 30px;
+    margin-bottom: 0;
+}
+
+.innerdata
+{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+}
+
