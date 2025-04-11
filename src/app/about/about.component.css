@@ -1,0 +1,148 @@
+@media screen and (max-width: 767px)
+{
+    
+.outermost
+{
+    width: 100%;
+    height: fit-content;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+.contentbox
+{
+    max-width: 90vw;
+    width: 100%;
+    height: fit-content;
+}
+
+.data:first-child
+{
+    font-size: 22px;
+    text-decoration: underline;
+    text-wrap: wrap;
+    padding: 10px;
+}
+
+.data
+{
+    padding: 10px 0;
+    font-size: 20px;
+    text-wrap: auto;
+}
+
+
+}
+
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+/* ===================TABLET================== */
+
+@media screen and (min-width: 768px) and (max-width: 991px)
+{
+    
+.outermost
+{
+    width: 100%;
+    height: fit-content;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+.contentbox
+{
+    max-width: 95vw;
+    width: 100%;
+    height: fit-content;
+}
+
+.data:first-child
+{
+    font-size: 22px;
+    text-decoration: underline;
+    text-wrap: wrap;
+    padding: 10px;
+}
+
+.data
+{
+    padding: 10px 0;
+    font-size: 20px;
+    text-wrap: auto;
+}
+
+}
+
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+/* ===================DESKTOP================= */
+
+@media screen and (min-width: 992px)
+{
+    
+.outermost
+{
+    width: 100%;
+    height: fit-content;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+.contentbox
+{
+    max-width: 95vw;
+    width: 100%;
+    height: fit-content;
+    margin-left: 15px;
+}
+
+.data:first-child
+{
+    font-size: 22px;
+    text-decoration: underline;
+    text-wrap: wrap;
+    padding: 10px;
+}
+
+.data
+{
+    padding: 10px;
+    font-size: 20px;
+    text-wrap: auto;
+}
+
+}
